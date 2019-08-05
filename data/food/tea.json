@@ -1,4 +1,5 @@
 {
+
   "templates": [
     "{action} {user} a {size} {temperature} {tea} tea!"
   ],
@@ -195,3 +196,4 @@
     ]
    }
 }
+
