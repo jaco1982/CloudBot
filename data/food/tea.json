@@ -1,20 +1,6 @@
 {
-<<<<<<< HEAD
-
-  "templates": [
-    "{action} {user} a {size} {temperature} {tea} tea!"
-  ],
-  "parts": {
-    "action": [
-      "hands",
-      "passes",
-      "throws",
-      "brews",
-      "pours"
-=======
     "templates": [
         "hands {user} a {size} {temperature} {tea} tea!"
->>>>>>> parent of 97fb996a... Update tea.json
     ],
     "parts": {
         "temperature": [
