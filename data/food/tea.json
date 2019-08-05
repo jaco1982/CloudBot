@@ -1,16 +1,16 @@
-{  
-    "templates": [  
+{
+    "templates": [
         "{action} {user} a {size} {temperature} {tea} tea!"
     ],
-    "parts":{  
-        "action": [  
+    "parts": {
+        "action": [
             "hands",
             "passes",
             "throws",
             "brews",
             "pours"
         ],
-        "size": [  
+        "size": [
             "large",
             "medium",
             "small",
@@ -43,7 +43,7 @@
             "old red zhuni Yixing teapot filled with",
             "stately Factory 1 Yixing teapot packed with"
         ],
-        "temperature": [  
+        "temperature": [
             "scalding",
             "hot",
             "steaming",
@@ -56,7 +56,7 @@
             "warmish",
             "not too warm nor too hot, just right"
         ],
-        "tea": [  
+        "tea": [
             "masala chai",
             "Yorkshire Gold English Breakfast",
             "Irish breakfast",
